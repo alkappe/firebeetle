@@ -1,4 +1,4 @@
-# FireBeetle
+# 🔥🪲 FireBeetle
 
 A web app for monitoring wildfires: a live map of fires worldwide, user-submitted photo alerts for spotted fires/smoke, and an AI backoffice that reviews and verifies those reports.
 
